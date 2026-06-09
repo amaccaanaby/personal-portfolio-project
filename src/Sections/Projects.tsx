@@ -12,19 +12,6 @@ const projects = [
     ]
   },
   {
-    title: "VSTravel - University Project",
-    status: "Aug 2025",
-    desc: "web-based platform for booking travel destinations online. Users can explore destinations, check details, and make reservations easily. Designed with a focus on simplicity and user experience, this project streamlines travel planning into one seamless platform.",
-    link: "https://github.com/amaccaanaby/VSTravel",
-
-    images: [
-      "/images/vstravel1.png",
-      "/images/vstravel2.png",
-      "/images/vstravel3.png",
-    ]
-
-  },
-  {
     title: "Kode Scent - Personal Project",
     status: "Feb 2026 - Mar 2026",
     desc: "Managed client communication, product styling, photography, and editing for F&B brands.",
@@ -34,6 +21,29 @@ const projects = [
       "/images/kodescent1.png",
       "/images/kodescent2.png",
       "/images/kodescent3.png",
+    ]
+  },
+  {
+    title: "Pokedex",
+    status: "Mar 2026",
+    desc: "A responsive Pokédex app built with React and PokéAPI, featuring Pokémon search and detailed stat views.",
+    link: "https://github.com/amaccaanaby/Pokedex-UI",
+
+    images: [
+      "/images/pokedex1.png",
+      "/images/pokedex2.png",
+    ]
+  },
+  {
+    title: "VSTravel - University Project",
+    status: "Aug 2025",
+    desc: "web-based platform for booking travel destinations online. Users can explore destinations, check details, and make reservations easily. Designed with a focus on simplicity and user experience, this project streamlines travel planning into one seamless platform.",
+    link: "https://github.com/amaccaanaby/VSTravel",
+
+    images: [
+      "/images/vstravel1.png",
+      "/images/vstravel2.png",
+      "/images/vstravel3.png",
     ]
   },
 ];  
