@@ -24,7 +24,7 @@ const projects = [
     ]
   },
   {
-    title: "Pokedex",
+    title: "Pokedex - Personal Project",
     status: "Mar 2026",
     desc: "A responsive Pokédex app built with React and PokéAPI, featuring Pokémon search and detailed stat views.",
     link: "https://github.com/amaccaanaby/Pokedex-UI",

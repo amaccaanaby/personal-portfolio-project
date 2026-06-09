@@ -13,7 +13,6 @@ const About = () => {
                 <li>React + TypeScript</li>
                 <li>Tailwind CSS</li>
                 <li>Figma to Code</li>
-                <li>Visual Storytelling</li>
             </ul>
         </div>
     </div>

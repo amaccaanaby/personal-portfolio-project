@@ -1,6 +1,6 @@
 const Contact = () => {
   return (
-    <div className="bg-black p-12 rounded-4xl flex flex-col gap-6">
+    <div className="bg-black p-12 rounded-4xl flex flex-col gap-6 shadow-[0_0_10px_rgba(0,0,0,0.10)]">
         <p className="text-gray-400">Let's Connect</p>
         <h1 className="text-4xl font-medium text-white">Continuously exploring new technologies to create products that are both functional and meaningful for users.</h1>
         <div className="flex flex-wrap gap-6">
