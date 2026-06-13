@@ -14,7 +14,7 @@ const projects = [
   {
     title: "Kode Scent - Personal Project",
     status: "Feb 2026 - Mar 2026",
-    desc: "Managed client communication, product styling, photography, and editing for F&B brands.",
+    desc: "Start Up perfume brand (Demo) A minimalist web application for KŌDE. Built with a focus on high-end aesthetics and responsive design.",
     link: "https://github.com/amaccaanaby/kode-scent",
 
     images: [
@@ -26,7 +26,7 @@ const projects = [
   {
     title: "Pokedex - Personal Project",
     status: "Mar 2026",
-    desc: "A responsive Pokédex app built with React and PokéAPI, featuring Pokémon search and detailed stat views.",
+    desc: "A responsive Pokédex app built with React and PokéAPI, featuring detailed stat views.",
     link: "https://github.com/amaccaanaby/Pokedex-UI",
 
     images: [
